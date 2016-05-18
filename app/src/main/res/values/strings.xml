@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Here I Am</string>
+    <string name="app_name">Here I am</string>
+    <string name="input_hint">Here I am here</string>
+    <string name="connection_error">Connection Error...</string>
 </resources>

@@ -3,4 +3,16 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="bubble">#000000</color>
+
+    <color name="colorMessageList">#666666</color>
+
+    <color name="colorMessageText">#000000</color>
+    <color name="colorMessageSolid">#000000</color>
+    <color name="colorMessageStroke">#9900cc</color>
+    <color name="colorSendButtonSolid">#ffffff</color>
+    <color name="colorSendButtonStroke">#000000</color>
+    <color name="colorSendButtonText">#000000</color>
+
 </resources>
